@@ -9,5 +9,6 @@
 readme edited by Sarthak.
 Lucas Derr
 Sarthak Shukla
+Albert Tamayo
 
 Corrected changes - Sarthak.
