@@ -4,7 +4,7 @@
 - Sarthak S
 - Tyler
 - Andy
-- Albert
+- Albert T
 
 readme edited by Sarthak.
 Lucas Derr
