@@ -1,9 +1,9 @@
 # ATLAS_Lab_3
 "Project Team Members: "
-- Lucas
+- Lucas D
 - Sarthak S
-- Tyler
-- Andy
+- Tyler P
+- Andy W
 - Albert T
 
 readme edited by Sarthak.
